@@ -1,5 +1,3 @@
-# resume_cv
-
 # todo
 
 ## git
