@@ -7,6 +7,7 @@
 - [ ] source tree branch control
 
 ## css
+design a same view in difference methods
 - [ ] table (email)
 - [ ] float
 - [ ] flex
