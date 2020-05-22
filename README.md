@@ -6,7 +6,7 @@
 - [ ] cherryPick
 - [ ] rebase with conflict
 - [ ] merge with conflict
-- [ ] source tree branch 控管
+- [ ] source tree branch control
 
 ## css
 - [ ] table (email)
