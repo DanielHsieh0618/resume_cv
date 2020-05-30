@@ -11,9 +11,9 @@
 ## 工作經驗 
 ### 衛武資訊
 #### 研發工程師(2018/2 -至今)
-+ 定義使用者操作流程 
-+ 系統前端介面設計與互動功能製作並串接後端API 
-+ 訂定前端協作開發標準與代碼撰寫規範 
++ 定義使用者操作流程提升使用者體驗(UX)
++ 設計與製作使用者介面(UI)並與後端應用程式介面(api)串接 
++ 擬定前端協作流程與前端開發代碼撰寫規範 
 
 * * * 
   
@@ -50,7 +50,6 @@
 + 資料庫：MongoDB, GraphQL 
 + 作業系統 : Linux Ubuntu 
 + 開發維運技術 : Docker , AWS
-+ 伺服器：IIS 
 + 設計模式：OOP 
 
 * * *
@@ -73,7 +72,7 @@
 + [x] axios 完整串接Restful API，並分模組集中管理
 + [ ] Nuxt.js
 
-#### [BIM model viewer]() (待開發中)
+#### [BIM (building information model) viewer]() (待開發中)
 + [ ] Node.js (express.js) 2-legged授權與串接三方API
 + [ ] forge viewer 功能開發
 + [ ] Vuetify 製作互動功能
