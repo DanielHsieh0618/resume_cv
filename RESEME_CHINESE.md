@@ -21,18 +21,20 @@
 
 ### 前端 
 
-+ 應用HTML5 + CSS3完成響應式頁面架構和布局 
-+  串接資料應用與設計網頁互動功能( jQeury/AJAX, javascript/ES6含以上) 
-+ 介接第三方API開發客製化應用功能( Forge,Cesium.js) 
-+ 第三方開發套件與資料視覺化經驗( Bootstrap, Kendo UI, D3.js)
-+ 使用前端框架建置SPA與套件開發經驗( axios, vue, vuex, vue-router, vue plugin) 
++ 應用HTML與CSS完成響應式網站設計 (RWD) 
++ 串接Restful API與設計網頁互動功能( jQeury/AJAX/axios, javascript/ES6+) 
++ 應用第三方元件庫開發經驗( Bootstrap, Kendo UI, Vuetify)
++ 資料視覺化開發經驗( D3.js)
++ 應用第三方API開發客製化應用功能(Forge,Cesium.js)
 + 多語系支援網站開發經驗( vue-i18n) 
++ 使用前端框架建置網站與套件開發經驗( vue, vuex, vue-router, vue plugin, nuxt) 
 
 ### 後端 
 
-+ 撰寫網頁後端程式(express.js, node.js) 
++ 撰寫與串接 Restful Web API(node.js, express.js) 
 
 ### 其他 
++ 套件管理 (npm)
 + 版本管控(TFVC and Git) 
 + 持續整合與交付(CICD pipelines based on Azure DevOps) 
 + 敏捷式開發 
@@ -42,10 +44,10 @@
 ## 未來學習計畫 
 
 + 前端 : TypeScript, Tailwind 
-+ 單元測試: Jest, Mocha
++ 單元測試: Jest
 + 端對端測試: NightWatch
-+ 後端技術 : Node.js 
-+ 資料庫：MongoDB, MySQL 
++ 桌面程式: electron 
++ 資料庫：MongoDB, GraphQL 
 + 作業系統 : Linux Ubuntu 
 + 開發維運技術 : Docker , AWS
 + 伺服器：IIS 
@@ -55,9 +57,9 @@
 
 ## 關於我 
 
-+ 專業知識多透過線上學習平台、論壇和google自學，期許自己能繼續增進實力 
-+  樂於學習新知識和分享 
-+ 具備獨立介面設計與程式開發能力 
++ 畢業後即從事本科系(土木)相關工作，因對開發有興趣遂踏進研發的範疇，關於開發相關知幾乎皆透過網路資源習得，期許自我能一直保有熱誠並繼續精進實力。
++ 具備獨立研究與整合能力 
++ 樂於學習新知識與技術並許開發者交流
 
  * * *
 
@@ -65,11 +67,11 @@
 ## 作品集
 
 #### [real world example](https://danielhsieh0618.github.io/real-world-vue/#/) (持續開發中...)
-+ [x] vuex 實作權限模組(JWT)，登入授權並存取受保護的API
-+ [x] axios 集中管理API機制
-+ [ ] 完整串接後端 crud
++ [ ] 響應式網頁設計( RWD )
 + [ ] bootstrap-vue 元件框架製作互動功能
-+ [ ] Nuxt SEO
++ [x] vuex 實作權限模組(JWT)，登入授權並存取受保護的API
++ [x] axios 完整串接Restful API，並分模組集中管理
++ [ ] Nuxt.js
 
 #### [BIM model viewer]() (待開發中)
 + [ ] Node.js (express.js) 2-legged授權與串接三方API
