@@ -40,8 +40,8 @@
 
 ### Back-End Technologies
 
-+ Node.js(Familiar with) 
-+ express.js(Familiar with)
++ Node.js(Used) 
++ express.js(Used)
 
 ### Other 
 + NPM

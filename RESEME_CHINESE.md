@@ -23,21 +23,22 @@
 
 + 應用HTML與CSS完成響應式網站設計 (RWD) 
 + 串接Restful API與設計網頁互動功能( jQeury/AJAX/axios, javascript/ES6+) 
++ 運用現代開發工具完成編譯及打包(webpack)
 + 應用第三方元件庫開發經驗( Bootstrap, Kendo UI, Vuetify)
 + 資料視覺化開發經驗( D3.js)
 + 應用第三方API開發客製化應用功能(Forge,Cesium.js)
++ 前端框架使用與套件開發經驗( vue, vuex, vue-router, vue plugin, nuxt.js) 
 + 多語系支援網站開發經驗( vue-i18n) 
-+ 使用前端框架建置網站與套件開發經驗( vue, vuex, vue-router, vue plugin, nuxt) 
+
 
 ### 後端 
 
-+ 撰寫與串接 Restful Web API(node.js, express.js) 
++ 了解Restful Web API(node.js, express.js) 
 
 ### 其他 
-+ 套件管理 (npm)
++ 套件管理與出版 (npm)
 + 版本管控(TFVC and Git) 
-+ 持續整合與交付(CICD pipelines based on Azure DevOps) 
-+ 敏捷式開發 
++ 前端部屬(CICD on Github page with Travis) 
 
 * * *
 
@@ -46,8 +47,8 @@
 + 前端 : TypeScript, Tailwind 
 + 單元測試: Jest
 + 端對端測試: NightWatch
-+ 桌面程式: electron 
-+ 資料庫：MongoDB, GraphQL 
++ 桌面開發: eletron
++ 資料庫：GraphQL, MongoDB 
 + 作業系統 : Linux Ubuntu 
 + 開發維運技術 : Docker , AWS
 + 設計模式：OOP 
@@ -75,7 +76,6 @@
 #### [BIM (building information model) viewer]() (待開發中)
 + [ ] Node.js (express.js) 2-legged授權與串接三方API
 + [ ] forge viewer 功能開發
-+ [ ] Vuetify 製作互動功能
 + [ ] D3.js 資料視覺化
 + [ ] PWA 離線存取(service worker)
 
