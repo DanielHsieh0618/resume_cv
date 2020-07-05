@@ -85,7 +85,7 @@
 
 ## 作品集
 
-#### [real world example](https://danielhsieh0618.github.io/real-world-vue/#/) (持續開發中...)
+#### [real world example](https://danielhsieh0618.github.io/real-world-vue/#/) (持續開發、優化...)
 + [x] 響應式網頁設計( RWD )
 + [x] bootstrap-vue 元件框架製作互動功能
 + [x] vuex 實作權限模組(JWT)，登入授權並存取受保護的API
