@@ -92,7 +92,7 @@
 + [x] axios 完整串接Restful API，並分模組集中管理
 + [ ] Nuxt.js
 
-#### [BIM (building information model) viewer]() (待開發中)
+#### [BIM (building information model) viewer]() (待開發)
 + [ ] Node.js (express.js) 2-legged授權與串接三方API
 + [ ] forge viewer 功能開發
 + [ ] D3.js 資料視覺化
