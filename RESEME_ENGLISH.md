@@ -17,9 +17,11 @@
 
 ## Work Experience 
 #### R&D Engineer, WeBIM Services (February 2018 - Present)
-+ Considering user experience and developing user interfaces with reactive functions
++ Considering user experience and developing user interfaces (css, html, js)
 + Connecting front-end user interfaces (UIs) to related application programming interfaces (APIs)  
-+ Defining front-end developing rules and code styles
++ Defining front-end developing rules and code styles for front-end cooperation
++ Developing Platform-based product
++ anticipating meets with clients and project manager to communicate user needs
 
 * * * 
   
@@ -69,8 +71,8 @@
 ## Portfolio
 
 #### [real world example](https://danielhsieh0618.github.io/real-world-vue/#/) (developing ...)
-+ [ ] responsive web design ( RWD )
-+ [ ] vue components framework ( bootstrap-vue )
++ [x] responsive web design ( RWD )
++ [x] vue components framework ( bootstrap-vue )
 + [x] vuex with auth module ( JWT ) and accessing to protected APIs
 + [x] fully connect UI to each Restful APIs (axios)
 + [ ] Nuxt.js
